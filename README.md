@@ -1,2 +1,2 @@
 # codechef
-codechef solutions I solve  :smirk:
+codechef questions I solve  :smirk:
